@@ -1,0 +1,231 @@
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Equipo\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\santi\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\santi\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\santi\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Equipo\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Equipo\Documents\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Jayce\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Factura.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Factura.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\santi\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Factura.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mi PC\Desktop\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Usuarios.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Usuarios.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Usuarios.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Proyecto egreso\Ventana de administracion de usuarios\Proyecto (3)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.Auditoria.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.Usuarios.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\29-10-2021\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.Recuperacion.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.Auditoria.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.Usuarios.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeClientes.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.GestionDeInventario.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.GestiondeVentas.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Santiago\Downloads\Auditoria Incompleta - Falta usuario\Auditoria Incompleta - Falta usuario\Proyecto\obj\Debug\Proyecto.pdb

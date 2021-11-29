@@ -1,0 +1,15 @@
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Repositorios\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Login.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.AppGeneral.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Perfil.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Administracion.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Carrito.resources
+D:\Repositorios\Proyecto\Proyecto\obj\Debug\Proyecto.Interfaces.Registro.resources
